@@ -6,10 +6,12 @@ Prepared by Emeka Kingsley
 With the explosion of on-demand entertainment, Netflix has become a dominant global force in streaming, hosting a massive library of TV shows and movies. But have you ever wondered what types of content Netflix offers most, how its content has evolved over the years, or which countries dominate its library?
 
 
-## Report:
+### Report:
+https://github.com/kingsley0718/Netflix-Titles-Report/blob/main/Netflix%20Streaming%20Insights%20week%206.pptx
 
 
-##### In this project, we explore a public dataset of Netflix content to uncover trends in the types of shows, release timelines, content durations, genres (listed_in), countries, and key contributors like directors and cast. We investigate questions like:
+
+### In this project, we explore a public dataset of Netflix content to uncover trends in the types of shows, release timelines, content durations, genres (listed_in), countries, and key contributors like directors and cast. We investigate questions like:
 
 i; What type of content (TV Shows or Movies) dominates the platform?
 
